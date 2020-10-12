@@ -1,0 +1,16 @@
+{
+
+  "type": "record",
+  "name": "Creditcard",
+  "namespace": "com.vidyayug.avro",
+  "fields": [
+    {
+      "name": "number",
+      "type": "string"
+    },
+    {
+      "name": "cvv",
+      "type": "string"
+    }
+  ]
+}
